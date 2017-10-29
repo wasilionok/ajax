@@ -80,8 +80,6 @@ ajax({
 
         var jsonObj = JSON.parse(response);
         console.log(jsonObj);
-
-
     }
 });
 
